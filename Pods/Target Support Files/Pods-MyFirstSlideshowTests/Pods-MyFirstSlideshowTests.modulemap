@@ -1,0 +1,6 @@
+framework module Pods_MyFirstSlideshowTests {
+  umbrella header "Pods-MyFirstSlideshowTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
